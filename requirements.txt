@@ -1,0 +1,6 @@
+selenium
+customtkinter
+pandas
+opencv-python
+Pillow
+cryptography
